@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72660705054",
+    "project_id": "familyfarmerserver",
+    "storage_bucket": "familyfarmerserver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72660705054:android:c3bc62d6e60a4433aff30f",
+        "android_client_info": {
+          "package_name": "com.familyfarmer.family"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARi3lq8IwzVUaBB2RzFjTw8b27HbptvL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
